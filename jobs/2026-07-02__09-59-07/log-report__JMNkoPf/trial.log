@@ -1,3 +1,0 @@
-Skipping image OS validation for hb__e09bb894a6364e8a759a25150b346bb9: docker inspect returned 1
-Collecting main service artifacts
-Trial log-report__JMNkoPf failed: No reward file found at jobs\2026-07-02__09-59-07\log-report__JMNkoPf\verifier\reward.txt or jobs\2026-07-02__09-59-07\log-report__JMNkoPf\verifier\reward.json
